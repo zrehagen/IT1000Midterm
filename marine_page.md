@@ -1,0 +1,11 @@
+### Marine Veteran
+
+###### [Homepage](README.md)
+
+#### My time in the Marine Corps.
+
+While I was in the Marine Corps my job was 0847 - Artillery Sensor Supportman for the [11th Marine Regiment](https://www.1stmardiv.marines.mil/Units/11TH-MARINE-REGT/) in Camp Pendleton, California. An artillery sensor supportman in the Marine Corps is responsible for supporting artillery units in the collection, analysis, and dissemination of sensor data to improve the accuracy of artillery fire. They operate and maintain various types of sensors, such as radar and acoustic devices, to detect the location of enemy targets and provide critical data to artillery crews. They also perform analysis on sensor data and communicate the results to the artillery unit to support accurate targeting. Additionally, artillery sensor supportmen are responsible for the maintenance and repair of their equipment and ensuring that it is ready for deployment at all times. They must be proficient in the use of various computer systems and software applications used to process and analyze sensor data. This job requires attention to detail, technical expertise, and the ability to work effectively as part of a team in a fast-paced and demanding environment.
+
+![11th Marine Regiment](cannoncockers.png)
+
+_11th Marines The Cannon Cockers._
