@@ -1,4 +1,4 @@
-# Midterm Project for Zach Rehagen
+# **Midterm Project for Zach Rehagen**
 
 ### **Some things you should know about me:**
 

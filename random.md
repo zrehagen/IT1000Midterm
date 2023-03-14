@@ -1,4 +1,4 @@
-### Random Hobbies of mine
+### **Random Hobbies of mine**
 
 ###### [Homepage](README.md)
 

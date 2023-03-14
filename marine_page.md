@@ -1,4 +1,4 @@
-### Marine Veteran
+### **Marine Veteran**
 
 ###### [Homepage](README.md)
 

@@ -1,4 +1,4 @@
-### Information Technology student
+### **Information Technology student**
 
 ###### [Homepage](README.md)
 
