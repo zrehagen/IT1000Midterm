@@ -36,3 +36,5 @@ An example of some code written while being enrolled as an IT student follows:
 
 	</html>
 _Example FIZZBUZZ code._
+
+###### [Homepage](README.md)

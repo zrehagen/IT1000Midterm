@@ -9,3 +9,5 @@ While I was in the Marine Corps my job was 0847 - Artillery Sensor Supportman fo
 ![11th Marine Regiment](cannoncockers.png)
 
 _11th Marines, The Cannon Cockers._
+
+###### [Homepage](README.md)
