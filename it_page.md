@@ -2,7 +2,7 @@
 
 ###### [Homepage](README.md)
 
-#### What to expect as an IT student.
+#### What to expect as an Information Technology student.
 
 As an Information Technology (IT) student, individuals learn various skills and knowledge related to the use and management of computer systems, software, and networks. They gain a deep understanding of programming languages, database management, and computer architecture. They also learn about software development methodologies, web development, and artificial intelligence. Additionally, IT students acquire critical problem-solving and analytical skills that enable them to troubleshoot and fix complex technical issues. Moreover, they learn about the importance of information security and data privacy, as well as ethical considerations in the use of technology. Overall, IT students graduate with the ability to design, develop, and maintain technological solutions that meet the needs of organizations and individuals.
 
